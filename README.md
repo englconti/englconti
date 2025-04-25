@@ -6,8 +6,6 @@ My day-to-day revolves around **Node.js**, **TypeScript**, **PostgreSQL**, **Red
 
 Before switching to tech, I spent 6+ years in multinational companies, working with global engineering and project teams. That experience sharpened my communication, collaboration, and project execution skills—something I bring into every codebase I contribute to.
 
-Here on GitHub, you'll find projects, experiments, and tools that reflect my love for well-architected systems and clean, maintainable code.
-
 ---
 
 **Tech Highlights:**  
